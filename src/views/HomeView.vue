@@ -37,7 +37,7 @@ const selectPokemon = async (pokemon) => {
 
 <template>
   <main>
-    <div class="container text-center">
+    <div class="container text-body-secondary">
       <div class="row mt-4">
         <div class="col-sm-12 col-md-6">
           <CardPokemonSelected 

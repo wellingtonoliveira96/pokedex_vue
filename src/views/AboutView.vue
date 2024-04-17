@@ -1,7 +1,7 @@
 <template>
-  <div class="container mt-4">
+  <div class="container mt-4 text-body-secondary">
     <div class="card">
-      <h1>This is an about page</h1>
+      <h1 class="text-center">This is an about page</h1>
       <div class="card-body">
         teste
       </div>
