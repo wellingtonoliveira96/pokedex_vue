@@ -3,7 +3,7 @@
     <div class="card">
       <h1 class="text-center">This is an about page</h1>
       <div class="card-body">
-        teste
+        <p>Atualização rápida para teste de deploy com o netlify</p>
       </div>
     </div>
   </div>
